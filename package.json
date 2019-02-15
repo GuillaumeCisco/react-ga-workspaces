@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "react-ga-workspaces",
+  "version": "0.0.1",
+  "license": "MIT",
+  "engines": {
+    "node": ">=8.4.0",
+    "npm": ">=5.3.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
